@@ -64,6 +64,6 @@ app.post("/register", (req, res)=> {
     
 }) 
 
-app.listen(9002,() => {
-    console.log("BE started at port 9002")
+app.listen(9003,() => {
+    console.log("BE started at port 9003")
 })
